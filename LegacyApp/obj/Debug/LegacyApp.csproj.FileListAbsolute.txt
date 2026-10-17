@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\LegacyApp\LegacyApp\obj\Debug\LegacyApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LegacyApp\LegacyApp\obj\Debug\LegacyApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LegacyApp\LegacyApp\bin\Debug\LegacyApp.exe
+C:\Users\Admin\source\repos\LegacyApp\LegacyApp\bin\Debug\LegacyApp.pdb
+C:\Users\Admin\source\repos\LegacyApp\LegacyApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\LegacyApp\LegacyApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\LegacyApp\LegacyApp\obj\Debug\LegacyApp.csproj.Up2Date
+C:\Users\Admin\source\repos\LegacyApp\LegacyApp\obj\Debug\LegacyApp.exe
+C:\Users\Admin\source\repos\LegacyApp\LegacyApp\obj\Debug\LegacyApp.pdb
+C:\Users\Admin\source\repos\LegacyApp\LegacyApp\bin\Debug\LegacyApp.exe.config
